@@ -1,0 +1,19 @@
+{
+  "name": "simpletickets",
+  "version": "1.0.0",
+  "description": "SimpleTickets Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ico35dev/SimpleTickets.git"
+  },
+  "author": "Ico35",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ico35dev/SimpleTickets/issues"
+  },
+  "homepage": "https://github.com/Ico35dev/SimpleTickets#readme"
+}
